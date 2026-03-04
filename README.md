@@ -132,8 +132,3 @@ python3 gradio_app.py \
 - 提示词构造：`conv_for_infer.py`
 - 依赖清单：`requirements.txt`
 
-## 原始英文文档
-
-完整英文说明与基准信息见：
-
-- `README.md`
