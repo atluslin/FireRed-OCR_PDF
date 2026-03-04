@@ -1,0 +1,11 @@
+torch
+transformers
+qwen-vl-utils
+gradio
+pymupdf
+pillow
+tqdm
+accelerate
+
+# Optional: only needed for qwen3_vllm_infer.py
+# vllm
