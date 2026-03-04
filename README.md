@@ -1,4 +1,4 @@
-# FireRed-OCR 中文说明
+# FireRed-OCR_PDF 中文说明
 
 本项目基于 FireRed-OCR（Qwen3-VL 架构），用于将文档图像/PDF 转换为结构化 Markdown。
 
